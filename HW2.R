@@ -1,3 +1,5 @@
+#github: https://github.com/csmotherman/CSC302-HW2
+
 df1=data.frame(Name=c('James','Paul','Richards','Marico','Samantha','Ravi','Raghu','Richards','George','Ema','Samantha','Catherine'),
                State=c('Alaska','California','Texas','North Carolina','California','Texas',
                        'Alaska','Texas','North Carolina','Alaska','California','Texas'),
